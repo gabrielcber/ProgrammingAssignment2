@@ -7,6 +7,7 @@
 ## we're interested in calculating the inverse of. It also 
 ## stores the inverted matrix after the operation.
 
+
 makeCacheMatrix <- function(x = matrix()) {
 
         I <- NULL

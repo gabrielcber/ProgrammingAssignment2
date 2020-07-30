@@ -1,6 +1,7 @@
 ### Example of make/cache functions to learn how to do it so I can
 # replicate to my assignment.
 
+
 makeVector <- function(x = numeric()) {
         m <- NULL
         set <- function(y) {
